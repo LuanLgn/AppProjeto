@@ -82,6 +82,8 @@
 - Projeto, grupo, operador, horas, descrição, quem notificar
 
 ### Tags
+(Tag > para projeto
+Label > para tarefa)
 - Criar tags:
   - Nome
 
