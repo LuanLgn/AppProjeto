@@ -23,10 +23,10 @@
 ### Tarefas
 - Código - título - status - projeto - tempo de - para - criado - vencimento - notas - checklist - anexos
 - Criar tarefas:
-  - Projeto, status, operador, template
+  - Projeto, status, operador, template (criar template para que possa ser replicado depois)
   - Operador, título, versão, squad, descrição
   - Início em - hora, vence em - hora - horas previstas
-  - Concluído %
+  - Concluído % (Também é possível criar uma checklist)
 
   - Alertas:
     - Alerta via sistema - data - hora - enviar alerta a cada 24 horas
@@ -95,5 +95,6 @@
   - Hora, dias do mês, mês, dias da semana, ano
 
 ### Criar Relatório de Tarefas
+- Possível importar e exportar XLS
 - Nome, tipo, operadores, grupos
 - Dashboard adicional: exibir no dashboard (não/sim ícone)
