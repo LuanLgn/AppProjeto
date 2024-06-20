@@ -61,10 +61,12 @@
 
 ### Squads
 - Nome, projeto, operadores visíveis
+- Em um projeto pode ter inúmeros squad, ou nenhum squad
+- 
 
 ### Automação de Tarefas
 - Cadastro:
-  - Nome, tipo (clonar/sprint-play/pause)
+  - Nome, tipo (clonar/sprint (conjuntos de tarefas que tem que ser executadas e desenvolvidas em um período pré-definido de tempo. )-play/pause)
   - De: projeto, status, operador, label
   - Para: projeto, status, operador, label, data de vencimento
   - Não são clonados:
