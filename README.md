@@ -1,5 +1,8 @@
 # AppProjeto
 
+- Chamados tem interação com projetos, podendo criar tarefas do app chamados
+- Despesa pode lançar a tarefa e no projeto pode colocar o custo de orçamento
+
 ## Projetos
 
 ### Dashboard
